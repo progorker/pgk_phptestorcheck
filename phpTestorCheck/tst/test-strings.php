@@ -1,4 +1,13 @@
 <?php
+/*
+ * Copyright (c) 2026 Dinh Thoai Tran <zinospetrel@sdf.org>
+ * All rights reserved.
+ *
+ * + Source URL: https://github.com/progorker/pgk_phptestorcheck/
+ *
+ * + License: GPL-2.0
+ */
+
 function test_strings( $p_token, $p_suite_id ) {
   $v_case_code = 'test_strings';
   $v_case_id = -1;
